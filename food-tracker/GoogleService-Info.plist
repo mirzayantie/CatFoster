@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>747512665999-cj98s2fdjtf9jk335vrcftmc1lch4dgt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747512665999-cj98s2fdjtf9jk335vrcftmc1lch4dgt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPE_kpt0aXIcBEG8dAPREV5QHOVIuWlDg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747512665999</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.ppas3</string>
+	<key>PROJECT_ID</key>
+	<string>cubaan-b46b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cubaan-b46b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747512665999:ios:c1d65f1c63e34edc</string>
+	<key>DATABASE_URL</key>
+	<string>https://cubaan-b46b3.firebaseio.com</string>
+</dict>
+</plist>
